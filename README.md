@@ -38,6 +38,21 @@ This project helped in understanding:
 - VLAN segmentation and traffic control  
 - Network security and monitoring  
 ---
+
+## Screenshots
+
+## Enterprise Multi-Site Hierarchical Network Topology
+<img width="1919" height="990" alt="1" src="https://github.com/user-attachments/assets/b4ed7ce4-9694-45f3-b466-f6c6716a8dd6" />
+
+## End-to-End Connectivity Verification
+<img width="1919" height="430" alt="2" src="https://github.com/user-attachments/assets/7d1575ca-b69a-4b1c-aa83-0eff1e4eb2c9" />
+
+## Screenshots
+## Screenshots
+## Screenshots
+## Screenshots
+## Screenshots
+
 ## Author
 
 **Udeesha Jayendra**  
