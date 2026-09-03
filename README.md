@@ -14,7 +14,7 @@ This project demonstrates the design and implementation of a scalable and secure
   Configured OSPF to enable efficient routing and fast convergence.
 
 -  **Secure WAN (VPN)**  
-  Established a Site-to-Site IPsec VPN for secure communication over public networks.
+  Established a Site-to-Site IPsec VPN for secure communication over public networks
 
 -  **VLAN Segmentation**  
   Implemented multiple VLANs to isolate departments and manage traffic effectively.
