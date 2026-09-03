@@ -35,7 +35,7 @@ This project helped in understanding:
 - Enterprise network design principles  
 - Secure WAN implementation  
 - Dynamic routing with OSPF  
-- VLAN segmentation and traffic control  
+- VLAN segmentation and traffic control.  
 - Network security and monitoring  
 ---
 
