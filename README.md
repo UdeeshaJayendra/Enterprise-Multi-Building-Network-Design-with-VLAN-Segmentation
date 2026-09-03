@@ -1,6 +1,6 @@
 # 🏢 Enterprise Multi-Building Network Design with VLAN Segmentation
 
-This project demonstrates the design and implementation of a scalable and secure multi-site enterprise network using Cisco Packet Tracer. It simulates a real-world campus-to-branch infrastructure with advanced networking concepts.
+This project demonstrates the design and implementation of a scalable and secure multi-site enterprise network using Cisco Packet Tracer. It simulates a real-world campus-to-branch infrastructure with advanced networking concepts
 
 ##  Key Features
 
